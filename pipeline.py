@@ -5,7 +5,7 @@ from code_predictor import predict_icd, predict_cpt
 
 def process_audio(audio_path):
 
-    transcript = diarize_conversation(audio_path)
+    transcript = transcribe_audio(audio_path)
 
     symptoms = extract_symptoms(transcript)
 
