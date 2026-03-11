@@ -1,4 +1,4 @@
-from diarization import diarize_conversation
+from speech_to_text import transcribe_audio
 from symptom_extractor import extract_symptoms
 from code_predictor import predict_icd, predict_cpt
 
