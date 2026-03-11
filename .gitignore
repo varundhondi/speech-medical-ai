@@ -1,0 +1,6 @@
+.streamlit/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+medical_ai_env/

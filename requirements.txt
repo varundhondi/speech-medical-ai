@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+faster-whisper
+ctranslate2
+rapidfuzz
+fuzzywuzzy
+python-Levenshtein
+openpyxl
