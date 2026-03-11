@@ -9,3 +9,4 @@ rapidfuzz
 fuzzywuzzy
 python-Levenshtein
 openpyxl
+spacy
